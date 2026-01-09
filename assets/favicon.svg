@@ -1,0 +1,15 @@
+{
+  "name": "VotRecv — Coaching CV & Entretien",
+  "short_name": "VotRecv",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0b6cf0",
+  "icons": [
+    {
+      "src": "/assets/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
